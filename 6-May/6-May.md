@@ -13,3 +13,4 @@ Jerry travelled 2070 Metres and was resting for 10 seconds.
 ### Therefore the winner was Jenna at 3540 Metres
 
 ### Working code
+![Screenshot (59)](https://github.com/Charlo-tech/May-DSA-AH/assets/57678615/432bc6a3-d871-4a25-97c2-fe3678f3fc18)
