@@ -1,1 +1,10 @@
 ## Answer for May 6 challenge
+
+After calculating individual distances after 1234 seconds, we arrived at the following conclusion.
+
+John travelled 2880 Metres and was resting for 6 seconds.
+James travelled 2432 Metres and was resting for 5 seconds.
+Jenna travelled 3540 Metres and was resting for 11 seconds.
+Josh travelled 2037 Metres and wasn't resting.
+Jacob travelled 1260 Metres and was resting for 6 seconds.
+Jerry travelled 2070 Metres and was resting for 10 seconds.
