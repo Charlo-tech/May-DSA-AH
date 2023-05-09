@@ -8,3 +8,5 @@ Jenna travelled 3540 Metres and was resting for 11 seconds.
 Josh travelled 2037 Metres and wasn't resting.
 Jacob travelled 1260 Metres and was resting for 6 seconds.
 Jerry travelled 2070 Metres and was resting for 10 seconds.
+
+### Therefore the winner was Jenna at 3540 Metres
