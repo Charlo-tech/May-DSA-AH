@@ -1,4 +1,5 @@
 # This is python code to iterate through possibble permutations of 1867 and find those divisible by 7 without a remainder.
+# The code then finds the largest and lowest permutation and their average.
 from itertools import permutations
 
 num_str = '1867'
