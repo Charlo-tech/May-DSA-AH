@@ -1,4 +1,6 @@
-## Answer for May 6 challenge
+### Answer for May 6 challenge
+
+## Jenna at 3540 metres
 
 After calculating individual distances after 1234 seconds, we arrived at the following conclusion.
 We did the calculations manually and confirmed the answe using python.
